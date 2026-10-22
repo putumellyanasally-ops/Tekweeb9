@@ -1,3 +1,3 @@
 <?php
-echo "Hello, Tekweb 9!";
+echo "Hello, Tekweb 9! dan lu gila";
 ?>
